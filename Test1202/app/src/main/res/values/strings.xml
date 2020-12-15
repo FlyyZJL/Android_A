@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="button_name">欢迎登录</string>
+    <string name="text1">测试程序</string>
+    <string name="text2">用户名</string>
+    <string name="text3">密码：</string>
+    <string name="text4">请输入用户名</string>
+    <string name="text5">请输入密码</string>
+    <string name="phonehint">请输入手机号</string>
+    <string name="repassword">重复密码</string>
+    <string name="repasswordhint">请重复输入密码</string>
+    <string name="reg">注册</string>
+    <string name="phone">手机号</string>
+    <string name="login">登录</string>
+    <string name="cancel">返回</string>
+    <string name="test">测试</string>
+    <string name="test2">测试2</string>
+
+
+</resources>
